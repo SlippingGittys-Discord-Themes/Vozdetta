@@ -1,7 +1,7 @@
 # Vendetta Discord Theme
 its got like, there's themes in here, for vendetta. and my name is vozy. haha.... LAUGH AT ME PLEASE
 
-## Cozy202K
+## [Cozy202K](https://github.com/SlippingGittys-Discord-Themes/Vozdetta/blob/main/Cozy202K.json)
 
 A color scheme based on [LeoRicharte's concept art.](https://support.discord.com/hc/user_images/tjTxmvyJTRtuwQnIHuGnYQ.png)
 
