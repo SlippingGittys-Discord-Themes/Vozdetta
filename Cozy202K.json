@@ -1,0 +1,96 @@
+{
+    "name": "Cozy202K",
+    "version": "3.2023",
+    "description": "A color scheme based on LeoRicharte's concept art",
+    "authors": [
+        {
+            "name": "vozer 🎀",
+            "id": "359175647257690113"
+        }
+    ],
+    "semanticColors": {
+        "KEYBOARD": [
+            "#292841"
+        ],
+        "CHAT_BACKGROUND": [
+            "#312F51"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#282940"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#292841"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#191f2e"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#1C1B29"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#424072"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#1C1B29"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#101320"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#312F51"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#292841"
+        ],
+        "BACKGROUND_MOBILE_TERTIARY": [
+            "#1C1B29"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#6E85D3"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#7471a6"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#424072"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#BDBBEB"
+        ],
+        "CHANNEL_ICON": [
+            "#BDBBEB"
+        ],
+        "HEADER_PRIMARY": [
+            "#FFFFFF"
+        ],
+        "HEADER_SECONDARY": [
+            "#a198b9"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#FFFFFF"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#7471a6"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#BDBBEB"
+        ],
+        "TEXT_LINK": [
+            "#6adbc6"
+        ],
+        "TEXT_MUTED": [
+            "#908dbb"
+        ],
+        "TEXT_NORMAL": [
+            "#ffffff"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#191f2e",
+        "PRIMARY_600": "#292841",
+        "PRIMARY_630": "#191f2e",
+        "PRIMARY_700": "#191f2e",
+        "PRIMARY_800": "#191f2e",
+        "YELLOW_300": "#bab9d4"
+    }
+}
