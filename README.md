@@ -1,4 +1,4 @@
-# Vendetta Discord Theme
+# Vendetta Discord Themes
 its got like, there's themes in here, for vendetta. and my name is vozy. haha.... LAUGH AT ME PLEASE
 
 ## [Cozy202K](https://github.com/SlippingGittys-Discord-Themes/Vozdetta/blob/main/Cozy202K.json)
