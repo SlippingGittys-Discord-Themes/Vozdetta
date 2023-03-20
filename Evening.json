@@ -1,0 +1,97 @@
+{
+  "name": "Evening 🌃",
+  "version": "3.2023",
+  "description": "We will soon be reaching an altitude of four million and a half feet",
+  "authors": [
+    {
+      "name": "vozer 🎀",
+      "id": "359175647257690113"
+    }
+  ],
+  "semanticColors": {
+    "KEYBOARD": [
+      "#101C2E"
+    ],
+    "CHAT_BACKGROUND": [
+      "#030f21"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#101C2E"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#101C2E"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#030F21"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#030f21"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#a7a3eb"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#030f21"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#101320"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#101C2E"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#101C2E"
+    ],
+    "BACKGROUND_MOBILE_TERTIARY": [
+      "#030f21"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#101C2F"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#716BAC"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#a7a3eb33"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#a7a3eb9b"
+    ],
+    "CHANNEL_ICON": [
+      "#a7a3eb9b"
+    ],
+    "HEADER_PRIMARY": [
+      "#a7a3eb"
+    ],
+    "HEADER_SECONDARY": [
+      "#a7a3eb"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#a7a3eb"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#a7a3eb9b"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#BDBBEB"
+    ],
+    "TEXT_LINK": [
+      "#6E85D3"
+    ],
+    "TEXT_MUTED": [
+      "#908dbb"
+    ],
+    "TEXT_NORMAL": [
+      "#ffffff"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_500": "#101c2e",
+    "PRIMARY_600": "#101C2E",
+    "PRIMARY_630": "#101c2e",
+    "PRIMARY_700": "#101c2e",
+    "PRIMARY_800": "#101c2e",
+    "BRAND_360": "#101c2e",
+    "YELLOW_300": "#a7a3eb"
+  }
+}
