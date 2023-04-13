@@ -93,5 +93,5 @@
         "PRIMARY_800": "#191f2e",
         "YELLOW_300": "#bab9d4"
     },
-    spec: "2"
+    "spec": 2
 }
